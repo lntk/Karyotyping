@@ -1,1 +1,2 @@
-Implementing some algorithms to automate karyotyping.
+- Implement some algorithms to automate karyotyping.
+- Develop a Window application that receives a photograph of chromosomes (distributed randomly), then performing chromosome extraction and classification.
